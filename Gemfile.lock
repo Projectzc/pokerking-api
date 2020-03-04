@@ -175,7 +175,7 @@ GEM
     parser (2.5.1.0)
       ast (~> 2.4.0)
     powerpack (0.1.1)
-    puma (3.11.4)
+    puma (3.12.4)
     raabro (1.1.6)
     rack (2.0.6)
     rack-attack (6.0.0)
@@ -336,7 +336,7 @@ DEPENDENCIES
   mysql2 (>= 0.4.4, < 0.6.0)
   newrelic_rpm
   paper_trail
-  puma (~> 3.11)
+  puma (~> 3.12)
   rack-attack
   rack-cors
   rails (~> 5.2.1)
